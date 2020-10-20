@@ -8,3 +8,5 @@ In my spare time, I read, travel, and write about things I'm interested in.
 ### Contact
 
 Email: <h@hmj.nz>
+Twitter: <https://twitter.com/helenamjackson>
+Linkedin: <https://www.linkedin.com/in/helenamjackson/>
