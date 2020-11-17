@@ -1,4 +1,4 @@
-### Blog
+### Notes
 
 I try to read, watch, and listen to different viewpoints, but what I find most difficult is connecting ideas, applying what I learn, and forming a critical perspective. One of the ways I’ve found where I’m better able to do this is when I have the opportunity to apply something in the real world, or try to explain it.
 
