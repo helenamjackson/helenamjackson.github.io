@@ -1,6 +1,6 @@
 ### Contact
 
 + Email: <h@hmj.nz>
-+ + Linkedin: <https://www.linkedin.com/in/helenamjackson/>
++ Linkedin: <https://www.linkedin.com/in/helenamjackson/>
 
 **@helenamjackson** on Twitter, Instagram, and Clubhouse
