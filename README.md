@@ -1,5 +1,7 @@
 ### About Me
 
-I grew up in Auckland, New Zealand and studied Commerce and Science at the University of Auckland. I'm now based in Seattle working as a Program Manager at Microsoft. 
+I grew up in Auckland, New Zealand and studied Commerce and Science at the University of Auckland. 
 
-In my spare time, I read, travel, and write about things I'm interested in.
+I'm now based in Seattle/New York City working on Azure Data Security and Governance Engineering at Microsoft. My [career](https://www.linkedin.com/in/helenamjackson/) has focused primarily on enterprise customer outcomes across Product Management, Technical Service Delivery, and Volume Licensing. 
+
+In my spare time, I read, travel, get outdoors, and write about things I'm interested in.
