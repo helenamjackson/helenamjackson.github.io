@@ -6,4 +6,4 @@ I'm now based in Seattle/New York City working on Azure Data Security and Govern
 
 I also write about, invest in, or build things I'm interested in. I’m particularly drawn to ideas that drive innovation or increase access to opportunity.
 
-In my spare time, I read, explore new cities, and get outdoors.
+In my spare time, I [read](https://www.goodreads.com/user/show/149476121-helena-jackson), explore new cities, and get outdoors.
